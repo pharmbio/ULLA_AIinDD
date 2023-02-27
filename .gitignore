@@ -10,3 +10,12 @@ slides/ligand_based/presentation.out
 slides/ligand_based/presentation.pdf
 slides/ligand_based/presentation.snm
 slides/ligand_based/presentation.toc
+
+slides/DL_intro/*.aux
+slides/DL_intro/*.fdb_latexmake
+slides/DL_intro/*.fls
+slides/DL_intro/*.log
+slides/DL_intro/*.out
+slides/DL_intro/*.pdf
+slides/DL_intro/*.snm
+slides/DL_intro/*.toc
