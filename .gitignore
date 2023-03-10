@@ -19,3 +19,6 @@ slides/DL_intro/*.out
 slides/DL_intro/*.pdf
 slides/DL_intro/*.snm
 slides/DL_intro/*.toc
+Project/.DS_Store
+.DS_Store
+Project/chembl_32_sqlite.tar.gz
